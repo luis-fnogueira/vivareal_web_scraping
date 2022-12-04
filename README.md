@@ -1,6 +1,6 @@
 ### Web scraping in Viva Real website.
 
-The example in houses.py file is with the city of Curitibe. But it could be made with any Brazilian city in the website.
+The example in houses.py file is with the city of Curitiba. But it could be made with any Brazilian city in the website.
 
 Their [link](https://www.vivareal.com.br/venda/parana/curitiba/apartamento_residencial/).
 
